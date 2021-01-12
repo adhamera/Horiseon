@@ -25,6 +25,6 @@ THEN I find a concise, descriptive title
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+* https://adhamera.github.io/Horiseon/
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* https://github.com/adhamera/Horiseon
