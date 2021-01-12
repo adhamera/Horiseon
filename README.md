@@ -23,8 +23,6 @@ THEN I find a concise, descriptive title
 
 ## Review
 
-You are required to submit the following for review:
-
 * https://adhamera.github.io/Horiseon/
 
 * https://github.com/adhamera/Horiseon
